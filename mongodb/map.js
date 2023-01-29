@@ -80,7 +80,7 @@ function finder(){
          console.log( result[v].year ,result[v].fname, result[v].lname)
 
       }
-     db.dbclose( conn)
+     //db.dbclose( conn)
   
   
     }else{
